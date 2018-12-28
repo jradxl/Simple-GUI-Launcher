@@ -10,7 +10,7 @@ this launcher, with the option to cancel it, in case I wish to maintain the Kodi
 Built with Golang and https://github.com/andlabs/ui
 
 Usage:
-launcher <program full path>
+launcher "program full path"
 
 Example:
 launcher /usr/bin/Kodi
